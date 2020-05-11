@@ -8,6 +8,6 @@ export interface InfoPage {
   facebook?: string;
   twitter?: string;
   instagram?: string;
-  tublr?: string;
+  tumblr?: string;
   workTeam?: any[];
 }

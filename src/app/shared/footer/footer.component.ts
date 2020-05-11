@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { InfoPageService } from 'src/app/services/info-page-service';
+import { InfoPageService } from '../../services/info-page-service';
 
 
 @Component({
